@@ -61,7 +61,7 @@ A simple Flutter application that demonstrates **persistent storage** using `Sha
 - `shared_preferences`
 
 ## 😱 **Live Demo**
-https://faysalcsecu.github.io/flutter_shared_preferences/
+https://faysalcsecu.github.io/flutter_state_management/
 
 
 ## **👤 Author**
