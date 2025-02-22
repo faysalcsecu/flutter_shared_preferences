@@ -66,5 +66,7 @@ https://faysalcsecu.github.io/flutter_shared_preferences/
 
 ## **👤 Author**
 **Faysal Bin Alauddin**
+
+📧 Email: faysalf716@gmail.com
 🔗 GitHub: [Faysal Bin Alauddin](https://github.com/faysalcsecu)  
 🔗 LinkedIn: [Faysal Bin Alauddin](https://www.linkedin.com/in/faysal-bin-alauddin-4815a92a7/)
